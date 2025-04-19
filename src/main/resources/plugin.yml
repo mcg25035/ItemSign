@@ -1,0 +1,4 @@
+name: ItemSign
+version: '${project.version}'
+main: dev.mcloudtw.itemsign.Main
+api-version: '1.21'
